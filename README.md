@@ -1,6 +1,6 @@
 <img id="banner" src="https://raw.githubusercontent.com/labibazad191/labibazad191/main/space-banner.gif" alt="SpaceX Mission Banner" width="1000" height="200">
 <h1 align="center">🚀 Mission Control: Labib Azad 👨‍🚀</h1>
-<h3 align="center">Space Explorer & Code Astronaut | Crafting Innovative Solutions for the Digital Universe 🌌</h3>
+<h3 align="center">Full-Stack Developer & Space Explorer | Revolutionizing Tech with AI, IoT, and Beyond 🌌</h3>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJlN2IyczVtcnRpMnc0NmhweG5qcDh1MzhnYm1lNGFlbjF2d3FsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Space Exploration GIF" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labibazad191&label=Profile%20views&color=0e75b6&style=flat" alt="labibazad191" /> </p>
 
@@ -10,15 +10,15 @@
 
 - 🌌 **Learning Trajectory:** Mastering **Machine Learning** and AI technologies to explore new frontiers in tech
 
-- 👨‍🚀 **Collaboration Orbit:** Seeking co-explorers for [UIU Donation Forum](https://github.com/mdyasin399/Donation_Club) - Building communities in the digital cosmos
+- 👨‍🚀 **Collaboration Orbit:** Seeking co-explorers for innovative projects - Building communities in the digital cosmos
 
-- 👨‍💻 **Project Repository:** Explore my space missions at [https://labibazad191.github.io/labib-azad.github.io/](https://labibazad191.github.io/labib-azad.github.io/)
+- 👨‍💻 **Project Repository:** Explore my space missions at [https://github.com/labibazad191](https://github.com/labibazad191)
 
-- 💬 **Communication Frequency:** Tune in for discussions on **JavaScript, React, RESTful APIs, ASP.NET, Angular, PHP, Python, and emerging AI/ML tech**
+- 💬 **Communication Frequency:** Tune in for discussions on **JavaScript, React, RESTful APIs, Laravel, Django, Python, AI/ML, IoT, and emerging tech**
 
-- 📫 **Mission Control Contact:** lazad191145@bscse.uiu.ac.bd
+- 📫 **Mission Control Contact:** labib.azad9494@gmail.com
 
-- 📄 **Astronaut Logbook:** Review my expeditions at [https://www.linkedin.com/in/labib-azad-0822441b0/](https://www.linkedin.com/in/labib-azad-0822441b0/)
+- 📄 **Astronaut Logbook:** Review my expeditions at [https://www.linkedin.com/in/labib-azad-8022441b0/](https://www.linkedin.com/in/labib-azad-8022441b0/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +44,7 @@
 - 👨‍🚀 **Certification Achievement:** Successfully completed **Google Data Analytics Professional** - Equipped for data-driven space explorations
 <p></p>
 
-- 🌟 **Skill Expansion:** Advancing knowledge in **Node.js**, **TypeScript**, and **Machine Learning** - Preparing for interplanetary code deployments
+- 🌟 **Skill Expansion:** Advancing knowledge in **Node.js**, **TypeScript**, **Machine Learning**, and **IoT** - Preparing for interplanetary code deployments
 <p></p>
 
 - 🔍 **Algorithmic Voyages:** Navigating <a href="https://leetcode.com/labibazad61/" alt="link to leetcode"><strong>LeetCode</strong></a> challenges - Sharpening problem-solving skills for cosmic-scale problems
@@ -356,10 +356,17 @@
                     </br>
                     <p>
                         <a href="#gh-dark-mode-only">
-                            <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-050505?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-dark-mode-only"/>
+                            <img alt="PHP" src="https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=777BB4#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-FFFFFF?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-light-mode-only"/>
+                            <img alt="PHP" src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=777BB4#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Laravel" src="https://img.shields.io/badge/Laravel-050505?style=for-the-badge&logo=laravel&logoColor=FF2D20#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20#gh-light-mode-only"/>
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
@@ -370,45 +377,17 @@
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
-                            <img alt="Sass" src="https://img.shields.io/badge/Sass-050505?style=for-the-badge&logo=sass#gh-dark-mode-only"/>
+                            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="Sass" src="https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=sass#gh-light-mode-only"/>
+                            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1#gh-light-mode-only"/>
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
-                            <img alt="Three.js" src="https://img.shields.io/badge/Three.js-050505?style=for-the-badge&logo=three.js&logoColor=white#gh-dark-mode-only"/>
+                            <img alt="React" src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="Three.js" src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=three.js&logoColor=black#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="Heroku" src="https://img.shields.io/badge/Heroku-050505?style=for-the-badge&logo=heroku&logoColor=430098#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=430098#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-050505?style=for-the-badge&logo=spotify#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-FFFFFF?style=for-the-badge&logo=spotify#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-050505?style=for-the-badge&logo=openai&logoColor=412991#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-FFFFFF?style=for-the-badge&logo=openai&logoColor=412991#gh-light-mode-only"/>
+                            <img alt="React" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react#gh-light-mode-only"/>
                         </a>
                     </p>
                     </br>
@@ -419,12 +398,12 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center"><strong>🌍 Mission: UIU Donation Forum - Community Unity</strong></h3>
+                <h3 align="center"><strong>🌍 Mission: Doctomed Directory - Healthcare Connection</strong></h3>
                 </br>
                 <div align="center">
                     <p>
                         <a href="#">
-                            <img src="https://raw.githubusercontent.com/labibazad191/labibazad191/main/uiu-donation-mission.jpg" alt="UIU Donation Space Mission" height="100" />
+                            <img src="https://raw.githubusercontent.com/labibazad191/labibazad191/main/doctomed-mission.jpg" alt="Doctomed Space Mission" height="200" />
                         </a>
                     </p>
                     </br>
@@ -433,62 +412,158 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
                         &nbsp;
-						<a href="https://readme-daily-quotes.vercel.app/api">
+						<a href="">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
 						</a>
                     </p>
                     </br>
                     <p>
                         <a href="#gh-dark-mode-only">
-                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+                            <img alt="PHP" src="https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=777BB4#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+                            <img alt="PHP" src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=777BB4#gh-light-mode-only"/>
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
-                            <img alt="SVG" src="https://img.shields.io/badge/SVG-050505?style=for-the-badge&logo=svg#gh-dark-mode-only"/>
+                            <img alt="Laravel" src="https://img.shields.io/badge/Laravel-050505?style=for-the-badge&logo=laravel&logoColor=FF2D20#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="SVG" src="https://img.shields.io/badge/SVG-FFFFFF?style=for-the-badge&logo=svg#gh-light-mode-only"/>
+                            <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20#gh-light-mode-only"/>
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
-                            <img alt="Axios" src="https://img.shields.io/badge/Axios-050505?style=for-the-badge&logo=axios&logoColor=5A29E4#gh-dark-mode-only"/>
+                            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="Axios" src="https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=5A29E4#gh-light-mode-only"/>
+                            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1#gh-light-mode-only"/>
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
-                            <img alt="Jest" src="https://img.shields.io/badge/Jest-050505?style=for-the-badge&logo=jest&logoColor=C21325#gh-dark-mode-only"/>
+                            <img alt="React" src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
-                            <img alt="Jest" src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-050505?style=for-the-badge&logo=githubactions#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
-                        </a>
-                        &nbsp;
-                        <a href="#gh-dark-mode-only">
-                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
-                        </a>
-                        <a href="#gh-light-mode-only">
-                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black#gh-light-mode-only"/>
+                            <img alt="React" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react#gh-light-mode-only"/>
                         </a>
                     </p>
                     </br>
                     <p>
-                       🌍 <strong>Mission Brief:</strong> UIU Donation Forum unites friends and community members in acts of generosity. Like NASA's international space station, we're building a collaborative platform where every contribution creates lasting impact and fosters unity across our digital universe.
+                       🌍 <strong>Mission Brief:</strong> Doctomed Directory connects healthcare professionals and clients seamlessly. Like NASA's Apollo missions, we're exploring new frontiers in medical connectivity, ensuring secure and efficient healthcare access.
                     </p>
                     </br>
-                        <a href="">
-                            <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=space" alt="Daily Quotes">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center"><strong>🌱 Mission: AgroSense - Smart Agriculture</strong></h3>
+                </br>
+                <div align="center">
+                    <p>
+                        <a href="#">
+                            <img src="https://raw.githubusercontent.com/labibazad191/labibazad191/main/agrosense-mission.jpg" alt="AgroSense Space Mission" height="200" />
                         </a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Python" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi-050505?style=for-the-badge&logo=raspberrypi#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi-FFFFFF?style=for-the-badge&logo=raspberrypi#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Arduino" src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Arduino" src="https://img.shields.io/badge/Arduino-FFFFFF?style=for-the-badge&logo=arduino#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="IoT" src="https://img.shields.io/badge/IoT-050505?style=for-the-badge&logo=internet-of-things#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="IoT" src="https://img.shields.io/badge/IoT-FFFFFF?style=for-the-badge&logo=internet-of-things#gh-light-mode-only"/>
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        🌱 <strong>Mission Objective:</strong> AgroSense revolutionizes agriculture with IoT-powered plant health monitoring. Like SpaceX's Starlink, we're connecting farmers to real-time data for sustainable farming in the digital age.
+                    </p>
+                    </br>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center"><strong>🛩️ Mission: QuantumSky - UAV Surveying</strong></h3>
+                </br>
+                <div align="center">
+                    <p>
+                        <a href="#">
+                            <img src="https://raw.githubusercontent.com/labibazad191/labibazad191/main/quantumsky-mission.jpg" alt="QuantumSky Space Mission" height="200" />
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#gh-dark-mode-only">
+                            <img alt="STM32" src="https://img.shields.io/badge/STM32-050505?style=for-the-badge&logo=stmicroelectronics#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="STM32" src="https://img.shields.io/badge/STM32-FFFFFF?style=for-the-badge&logo=stmicroelectronics#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="LiDAR" src="https://img.shields.io/badge/LiDAR-050505?style=for-the-badge&logo=lidar#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="LiDAR" src="https://img.shields.io/badge/LiDAR-FFFFFF?style=for-the-badge&logo=lidar#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="GPS" src="https://img.shields.io/badge/GPS-050505?style=for-the-badge&logo=gps#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="GPS" src="https://img.shields.io/badge/GPS-FFFFFF?style=for-the-badge&logo=gps#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="IMU" src="https://img.shields.io/badge/IMU-050505?style=for-the-badge&logo=imu#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="IMU" src="https://img.shields.io/badge/IMU-FFFFFF?style=for-the-badge&logo=imu#gh-light-mode-only"/>
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                       🛩️ <strong>Mission Brief:</strong> QuantumSky pioneers UAV technology for land surveying. Like NASA's Mars rovers, we're mapping uncharted territories with precision, advancing geospatial technology for the future.
+                    </p>
                     </br>
                 </div>
             </td>
@@ -509,15 +584,13 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 01 January 2024 - To: 07 January 2024
 
 Total Time: 0 secs
 
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
 </br>
@@ -526,9 +599,9 @@ No activity tracked
 
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-    
+    <img src="https://github.com/labibazad191/labibazad191/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/labibazad191/labibazad191/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+
 </div>
 
 </br>
