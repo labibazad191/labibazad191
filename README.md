@@ -16,7 +16,7 @@
 
 - 💬 **Communication Frequency:** Tune in for discussions on **JavaScript, React, RESTful APIs, Laravel, Django, Python, AI/ML, IoT, and emerging tech**
 
-- 📫 **Mission Control Contact:** labib.azad9494@gmail.com
+- 📫 **Mission Control Contact:** labib.azad94@gmail.com
 
 - 📄 **Astronaut Logbook:** Review my expeditions at [https://www.linkedin.com/in/labib-azad-8022441b0/](https://www.linkedin.com/in/labib-azad-8022441b0/)
 
